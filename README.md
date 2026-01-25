@@ -1,7 +1,7 @@
 <h1>HR Employee Attrition Analysis</h1>
 
 
-<h2>Goal:</h2>
+<h2>Goal</h2>
 Identify patterns and factors contributing to employee attrition.
 <br />
 <br />
@@ -11,7 +11,7 @@ Example questions:
 2. Does salary affect attrition?
 3. Do employees leave more in the first few years?
 
-<h2>Insights:</h2>
+<h2>Insights</h2>
 <br />
 
 1. Sales deparment has the highest attition.
@@ -20,13 +20,13 @@ Example questions:
 
 Overall, employee attrition with higher turnover is observed in the Sales department, among lower paid employees, and during the early years of employment.
 
-<h2>Tools Used:</h2>
+<h2>Tools Used</h2>
 - <b>Excel</b> 
 
-<h2>Environments Used:</h2>
+<h2>Environments Used</h2>
 - <b>Windows 11</b>
 
-<h2>HR Employee Attrition Analysis Excel Sheets:</h2>
+<h2>HR Employee Attrition Analysis Excel Sheets</h2>
 
 <p align="center">
 Raw Data<br/>
