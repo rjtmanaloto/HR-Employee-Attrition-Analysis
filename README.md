@@ -16,7 +16,7 @@ Example questions:
 
 1. Sales deparment has the highest attition.
 2. Lower income shows higher attrition.
-3. Employees with 0 to 5 years experience are more likely to leave.
+3. Employees with 0 to 5 years experience are more likely to leave.
 
 Overall, employee attrition with higher turnover is observed in the Sales department, among lower paid employees, and during the early years of employment.
 
@@ -26,7 +26,7 @@ Overall, employee attrition with higher turnover is observed in the Sales depart
 <h2>Environments Used:</h2>
 - <b>Windows 11</b>
 
-<h2>HR Employee Attrition Analysis Excel Sheets</h2>
+<h2>HR Employee Attrition Analysis Excel Sheets:</h2>
 
 <p align="center">
 Raw Data<br/>
