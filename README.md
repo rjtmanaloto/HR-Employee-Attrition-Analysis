@@ -1,4 +1,4 @@
-<h1>HR Employee Attrition Analysis</h1>
+<h1>HR Employee Attrition Analysis Using Excel</h1>
 
 
 <h2>Goal</h2>
@@ -6,7 +6,7 @@ Identify patterns and factors contributing to employee attrition.
 <br />
 <br />
 
-Example questions:
+Questions:
 1. Which department has the highest attrition?
 2. Does salary affect attrition?
 3. Do employees leave more in the first few years?
@@ -41,5 +41,3 @@ Pivot Tables<br/>
 Dashboard<br/>
 <img width="856" height="451" alt="5" src="https://github.com/user-attachments/assets/8e8e9736-ad4b-4fd9-9be0-ad1f86d041b4" />
 <p align="center">
-Insights<br/>
-<img width="856" height="451" alt="6" src="https://github.com/user-attachments/assets/50edfb8f-7fbe-455a-af99-38fba9b95ba2" />
