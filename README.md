@@ -26,7 +26,7 @@ Overall, employee attrition with higher turnover is observed in the Sales depart
 <h2>Environments Used</h2>
 - <b>Windows 11</b>
 
-<h2>HR Employee Attrition Analysis Excel Sheets</h2>
+<h2>Excel Sheet Screenshots</h2>
 
 <p align="center">
 Raw Data<br/>
