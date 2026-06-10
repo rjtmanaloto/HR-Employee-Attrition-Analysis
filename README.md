@@ -3,16 +3,14 @@
 
 <h2>Goal</h2>
 Identify patterns and factors contributing to employee attrition.
-<br />
-<br />
 
-Questions:
+<h2>Questions</h2>
+
 1. Which department has the highest attrition?
 2. Does salary affect attrition?
 3. Do employees leave more in the first few years?
 
 <h2>Insights</h2>
-<br />
 
 1. Sales deparment has the highest attition.
 2. Lower income shows higher attrition.
@@ -26,7 +24,7 @@ Overall, employee attrition with higher turnover is observed in the Sales depart
 <h2>Environments Used</h2>
 - <b>Windows 11</b>
 
-<h2>Excel Sheet Screenshots</h2>
+<h2>Screenshots</h2>
 
 <p align="center">
 Raw Data<br/>
