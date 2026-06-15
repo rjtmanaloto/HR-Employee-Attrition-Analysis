@@ -19,9 +19,11 @@ Identify patterns and factors contributing to employee attrition.
 Overall, employee attrition with higher turnover is observed in the Sales department, among lower paid employees, and during the early years of employment.
 
 <h2>Tools Used</h2>
+
 - <b>Excel</b> 
 
 <h2>Environments Used</h2>
+
 - <b>Windows 11</b>
 
 <h2>Screenshots</h2>
